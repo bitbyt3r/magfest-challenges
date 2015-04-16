@@ -1,0 +1,40 @@
+[main]
+config_source=/usr/share/challenges/<name>/
+config_destination=~/<config>/
+save_source=/usr/share/challenges/saves/<name>/
+save_destination=<config_destination>/saves/
+evrouter_kill = '"Keyboard" "" control key/1 "Shell/killall -9 fceux"'
+evrouter_exit = '"Keyboard" "" none key/28 "Shell/killall fceux"'
+notify_text="Press space to reload, or enter to exit."
+
+[nes]
+name=Nintendo Entertainment System
+command="fceux"
+arguments="--fullscreen" "1"
+config=".fceux"
+evrouter_load='"Keyboard" "" none key/57 "XKey/F7"'
+save_destination=<config_destination>/fcs/
+
+[snes]
+name=Super Nintendo Entertainment System
+command="zsnes"
+arguments=""
+config=".zsnes"
+evrouter_load=""
+evrouter_exit=""
+
+[atari]
+name=Atari
+command="stella"
+arguments="-cfigdir" "<config_destination>"
+config=".stella"
+evrouter_load=""
+evrouter_exit=""
+notify_text="Press enter to exit."
+
+[genesis]
+name=Genesis
+command="gens"
+arguments="--fs"
+config=".gens"
+evrouter_load='"Keyboard" "" none key/57 "XKey/F8"'

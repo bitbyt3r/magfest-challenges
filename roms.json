@@ -1,0 +1,1340 @@
+[
+    {
+        "description": "Take out the Mad Hatter with weak batarangs in one life!NEWLINEMind the 3D action!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "AdventuresOfBatmanAndRobin.png",
+        "readableName": "Adv. of Batman and Robin",
+        "romFile": "AdventuresOfBatmanAndRobin.zip",
+        "saveFiles": [
+            "AdventuresOfBatmanAndRobin.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Wipe out the Eye-Spitting Flytrap as a puny human! Brutal.",
+        "difficulty": "UNFAIR",
+        "disabledKeys": "",
+        "imageFile": "AlteredBeast.png",
+        "readableName": "Altered Beast",
+        "romFile": "AlteredBeast.zip",
+        "saveFiles": [
+            "AlteredBeast.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Destroy the giant alien cell using a bouncing ball!NEWLINEFeel the pain of geometry!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "Arkanoid2.png",
+        "readableName": "Arkanoid 2",
+        "romFile": "Arkanoid2.zip",
+        "saveFiles": [
+            "Arkanoid2.fc0",
+            "Arkanoid2.fc1",
+            "Arkanoid2.fc2",
+            "Arkanoid2.fc3",
+            "Arkanoid2.fc4",
+            "Arkanoid2.fc5",
+            "Arkanoid2.fc6",
+            "Arkanoid2.fc7",
+            "Arkanoid2.fc8",
+            "Arkanoid2.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Blow up 25k points of space rocks without any thrusting!NEWLINETake that evil naturally occurring astral phenomena!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "down",
+        "imageFile": "Asteroid.png",
+        "readableName": "Asteroids",
+        "romFile": "Asteroid.bin",
+        "saveFiles": [
+            "Asteroid.st0",
+            "Asteroid.st1",
+            "Asteroid.st2",
+            "Asteroid.st3",
+            "Asteroid.st4",
+            "Asteroid.st5",
+            "Asteroid.st6",
+            "Asteroid.st7",
+            "Asteroid.st8",
+            "Asteroid.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Crush 75k of Gorgon space technology withoutNEWLINEthe center Acropolis Command Post!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "Atlantis.png",
+        "readableName": "Atlantis",
+        "romFile": "Atlantis.bin",
+        "saveFiles": [
+            "Atlantis.st0",
+            "Atlantis.st1",
+            "Atlantis.st2",
+            "Atlantis.st3",
+            "Atlantis.st4",
+            "Atlantis.st5",
+            "Atlantis.st6",
+            "Atlantis.st7",
+            "Atlantis.st8",
+            "Atlantis.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Blast 10k of robots without succumbing to Evil Otto!NEWLINEMind the electrified walls!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "Berzerk.png",
+        "readableName": "Berzerk",
+        "romFile": "Berzerk.bin",
+        "saveFiles": [
+            "Berzerk.st0",
+            "Berzerk.st1",
+            "Berzerk.st2",
+            "Berzerk.st3",
+            "Berzerk.st4",
+            "Berzerk.st5",
+            "Berzerk.st6",
+            "Berzerk.st7",
+            "Berzerk.st8",
+            "Berzerk.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Defeat a giant rock worm without getting hit!NEWLINEDodge rocks and strike the tongue!  Gross.",
+        "difficulty": "EXPERT",
+        "disabledKeys": "a",
+        "imageFile": "BeyondOasis.png",
+        "readableName": "Beyond Oasis",
+        "romFile": "BeyondOasis.zip",
+        "saveFiles": [
+            "BeyondOasis.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Destroy an Albatross, shoot Hitler in the faceNEWLINEand escape without getting hit!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "BionicCommando.png",
+        "readableName": "Bionic Commando",
+        "romFile": "BionicCommando.zip",
+        "saveFiles": [
+            "BionicCommando.fc0",
+            "BionicCommando.fc1",
+            "BionicCommando.fc2",
+            "BionicCommando.fc3",
+            "BionicCommando.fc4",
+            "BionicCommando.fc5",
+            "BionicCommando.fc6",
+            "BionicCommando.fc7",
+            "BionicCommando.fc8",
+            "BionicCommando.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Shotgun Sarlac to death without getting hit!NEWLINEAwesome smooth animation action!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "BlackThorne.png",
+        "readableName": "Blackthorne",
+        "romFile": "BlackThorne.zip",
+        "saveFiles": [
+            "BlackThorne.zs1",
+            "BlackThorne.zs2",
+            "BlackThorne.zs3",
+            "BlackThorne.zs4",
+            "BlackThorne.zs5",
+            "BlackThorne.zs6",
+            "BlackThorne.zs7",
+            "BlackThorne.zs8",
+            "BlackThorne.zs9",
+            "BlackThorne.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Pulverize the huge floating brain with only aNEWLINEzero-powered gun and no getting hit!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "a",
+        "imageFile": "BlasterMaster.png",
+        "readableName": "Blaster Master",
+        "romFile": "BlasterMaster.zip",
+        "saveFiles": [
+            "BlasterMaster.fc0",
+            "BlasterMaster.fc1",
+            "BlasterMaster.fc2",
+            "BlasterMaster.fc3",
+            "BlasterMaster.fc4",
+            "BlasterMaster.fc5",
+            "BlasterMaster.fc6",
+            "BlasterMaster.fc7",
+            "BlasterMaster.fc8",
+            "BlasterMaster.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Defeat the Super Drunk with yourNEWLINEpoppy bubble color matching action!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "BustAMove.png",
+        "readableName": "Bust-A-Move",
+        "romFile": "BustAMove.zip",
+        "saveFiles": [
+            "BustAMove.zs1",
+            "BustAMove.zs2",
+            "BustAMove.zs3",
+            "BustAMove.zs4",
+            "BustAMove.zs5",
+            "BustAMove.zs6",
+            "BustAMove.zs7",
+            "BustAMove.zs8",
+            "BustAMove.zs9",
+            "BustAMove.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Conquer the Islands of Fear and save the worldNEWLINEfrom Dr. Maybe's Doomsday Bomb!NEWLINE(i.e. complete the game)",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "CaptainGoodnight.png",
+        "readableName": "Captain Goodnight and the Islands of Fear",
+        "romfile": "CaptainGoodnight",
+        "system": "Apple"
+    },
+    {
+        "description": "Take out Dracula without Sub-Weapons! Mind all the ledges!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "CastlevaniaDraculaX.png",
+        "readableName": "Castlevania: Dracula X",
+        "romFile": "CastlevaniaDraculaX.zip",
+        "saveFiles": [
+            "CastlevaniaDraculaX.zs1",
+            "CastlevaniaDraculaX.zs2",
+            "CastlevaniaDraculaX.zs3",
+            "CastlevaniaDraculaX.zs4",
+            "CastlevaniaDraculaX.zs5",
+            "CastlevaniaDraculaX.zs6",
+            "CastlevaniaDraculaX.zs7",
+            "CastlevaniaDraculaX.zs8",
+            "CastlevaniaDraculaX.zs9",
+            "CastlevaniaDraculaX.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Whip up the Grim Reaper and earn yourNEWLINEgolden knife with the Leather Whip!  Good luck.",
+        "difficulty": "EXPERT",
+        "disabledKeys": "",
+        "imageFile": "Castlevania2.png",
+        "readableName": "Castlevania 2",
+        "romFile": "Castlevania2.zip",
+        "saveFiles": [
+            "Castlevania2.fc0",
+            "Castlevania2.fc1",
+            "Castlevania2.fc2",
+            "Castlevania2.fc3",
+            "Castlevania2.fc4",
+            "Castlevania2.fc5",
+            "Castlevania2.fc6",
+            "Castlevania2.fc7",
+            "Castlevania2.fc8",
+            "Castlevania2.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Swing around and uncover all 66 silver bars before time expires!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "CluCluLand.png",
+        "readableName": "Clu Clu Land",
+        "romFile": "CluCluLand.zip",
+        "saveFiles": [
+            "CluCluLand.fc0",
+            "CluCluLand.fc1",
+            "CluCluLand.fc2",
+            "CluCluLand.fc3",
+            "CluCluLand.fc4",
+            "CluCluLand.fc5",
+            "CluCluLand.fc6",
+            "CluCluLand.fc7",
+            "CluCluLand.fc8",
+            "CluCluLand.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Finish the entire game.  Collect gems, kill your enemiesNEWLINEand hear the lamentation of the challenges!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "Conan.png",
+        "readableName": "Conan",
+        "romfile": "Conan",
+        "system": "Apple"
+    },
+    {
+        "description": "Conquer the Snow Zone with only your trusty Fireball gun!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "Contra.png",
+        "readableName": "Contra",
+        "romFile": "Contra.zip",
+        "saveFiles": [
+            "Contra.fc0",
+            "Contra.fc1",
+            "Contra.fc2",
+            "Contra.fc3",
+            "Contra.fc4",
+            "Contra.fc5",
+            "Contra.fc6",
+            "Contra.fc7",
+            "Contra.fc8",
+            "Contra.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Defeat the Colonel and destroy the Alien Cell missileNEWLINEwith your arcing explosive bombs!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "a",
+        "imageFile": "ContraHardCorps.png",
+        "readableName": "Contra: Hard Corps",
+        "romFile": "ContraHardCorps.zip",
+        "saveFiles": [
+            "ContraHardCorps.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Take out Pirate K. Rool as Dixie King solo!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "DonkeyKongCountry2.png",
+        "readableName": "Donkey Kong Country 2",
+        "romFile": "DonkeyKongCountry2.zip",
+        "saveFiles": [
+            "DonkeyKongCountry2.zs1",
+            "DonkeyKongCountry2.zs2",
+            "DonkeyKongCountry2.zs3",
+            "DonkeyKongCountry2.zs4",
+            "DonkeyKongCountry2.zs5",
+            "DonkeyKongCountry2.zs6",
+            "DonkeyKongCountry2.zs7",
+            "DonkeyKongCountry2.zs8",
+            "DonkeyKongCountry2.zs9",
+            "DonkeyKongCountry2.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Bounce tons of puppies to safety without lettingNEWLINEa single one squish, or Peter the Puppy will destroy you!",
+        "difficulty": "UNFAIR",
+        "disabledKeys": "",
+        "imageFile": "EarthwormJim2.png",
+        "readableName": "Earthworm Jim 2",
+        "romFile": "EarthwormJim2.zip",
+        "saveFiles": [
+            "EarthwormJim2.zs1",
+            "EarthwormJim2.zs2",
+            "EarthwormJim2.zs3",
+            "EarthwormJim2.zs4",
+            "EarthwormJim2.zs5",
+            "EarthwormJim2.zs6",
+            "EarthwormJim2.zs7",
+            "EarthwormJim2.zs8",
+            "EarthwormJim2.zs9",
+            "EarthwormJim2.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Blast away the Dark Shadow with yourNEWLINEweakest gun and no getting hit!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "a",
+        "imageFile": "ESWAT.png",
+        "readableName": "E-SWAT",
+        "romFile": "ESWAT.zip",
+        "saveFiles": [
+            "ESWAT.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Take out the Evil Corrupt Senator and strikeNEWLINEa win for Bipartisanship!NEWLINEBTW, you're a chicken. An Egg-Fu fighting Chicken!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "Eternal Champions.png",
+        "readableName": "Eternal Champions: Challenge of the Dark Side",
+        "romFile": "Eternal Champions.zip",
+        "saveFiles": [
+            "Eternal Champions.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Destroy the Alien Brain starting with no shields!NEWLINEGooey, bouncy alien soldier action!",
+        "difficulty": "UNFAIR",
+        "disabledKeys": "",
+        "imageFile": "Flashback.png",
+        "readableName": "Flashback",
+        "romFile": "Flashback.zip",
+        "saveFiles": [
+            "Flashback.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Cross the ridiculous speed varying trafficNEWLINEnightmare 20 times in under 2:16!",
+        "difficulty": "EXPERT",
+        "disabledKeys": "",
+        "imageFile": "Freeway.png",
+        "readableName": "Freeway",
+        "romFile": "Freeway.bin",
+        "saveFiles": [
+            "Freeway.st0",
+            "Freeway.st1",
+            "Freeway.st2",
+            "Freeway.st3",
+            "Freeway.st4",
+            "Freeway.st5",
+            "Freeway.st6",
+            "Freeway.st7",
+            "Freeway.st8",
+            "Freeway.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Face the Prince of Darkness in one life!NEWLINESo much fun, you'll have to do it twice!",
+        "difficulty": "EXPERT",
+        "disabledKeys": "",
+        "imageFile": "GoldenAxe3.png",
+        "readableName": "Golden Axe 3",
+        "romFile": "GoldenAxe3.zip",
+        "saveFiles": [
+            "GoldenAxe3.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Take out the four Stage 8 boss shipsNEWLINEin one life with no power-ups!NEWLINEPEW, PEW, PEW, PEW!",
+        "difficulty": "EXPERT",
+        "disabledKeys": "",
+        "imageFile": "Gradius3.png",
+        "readableName": "Gradius 3",
+        "romFile": "Gradius3.zip",
+        "saveFiles": [
+            "Gradius3.zs1",
+            "Gradius3.zs2",
+            "Gradius3.zs3",
+            "Gradius3.zs4",
+            "Gradius3.zs5",
+            "Gradius3.zs6",
+            "Gradius3.zs7",
+            "Gradius3.zs8",
+            "Gradius3.zs9",
+            "Gradius3.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Reach and defeat Colonel Red without shooting!NEWLINEJump, kick, and slide to VICTORY!",
+        "difficulty": "UNFAIR",
+        "disabledKeys": "b",
+        "imageFile": "GunstarHeroes.png",
+        "readableName": "Gunstar Heroes",
+        "romFile": "GunstarHeroes.zip",
+        "saveFiles": [
+            "GunstarHeroes.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Scare the pants off the Sardinis and take on the mystery boss!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "Haunting.png",
+        "readableName": "Haunting: Starring Polterguy",
+        "romFile": "Haunting.zip",
+        "saveFiles": [
+            "Haunting.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Rescue the miner trapped in the Level 17 mine in one life!NEWLINEHow'd that guy even get down there in the first place?",
+        "difficulty": "EXPERT",
+        "disabledKeys": "",
+        "imageFile": "HERO.png",
+        "readableName": "H.E.R.O.",
+        "romFile": "HERO.bin",
+        "saveFiles": [
+            "HERO.st0",
+            "HERO.st1",
+            "HERO.st2",
+            "HERO.st3",
+            "HERO.st4",
+            "HERO.st5",
+            "HERO.st6",
+            "HERO.st7",
+            "HERO.st8",
+            "HERO.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Defeat the Nasty Devil inside a giant dinosaur!NEWLINEWatch for the fake out halfway through!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "JoeAndMac.png",
+        "readableName": "Jpe & Mac: Caveman Ninjas",
+        "romFile": "JoeAndMac.zip",
+        "saveFiles": [
+            "JoeAndMac.zs1",
+            "JoeAndMac.zs2",
+            "JoeAndMac.zs3",
+            "JoeAndMac.zs4",
+            "JoeAndMac.zs5",
+            "JoeAndMac.zs6",
+            "JoeAndMac.zs7",
+            "JoeAndMac.zs8",
+            "JoeAndMac.zs9",
+            "JoeAndMac.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Score 30k worth of joey-saving, fruit collecting,NEWLINEapple-dodging, monkey-punching-in-the-face action!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "Kangaroo.png",
+        "readableName": "Kangaroo",
+        "romFile": "Kangaroo.bin",
+        "saveFiles": [
+            "Kangaroo.st0",
+            "Kangaroo.st1",
+            "Kangaroo.st2",
+            "Kangaroo.st3",
+            "Kangaroo.st4",
+            "Kangaroo.st5",
+            "Kangaroo.st6",
+            "Kangaroo.st7",
+            "Kangaroo.st8",
+            "Kangaroo.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Defeat guards, an attack Eagle,NEWLINEand Warlord Akuma with your Karateka skills!NEWLINERun, don't walk, into Mariko's arms!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "Karateka.png",
+        "readableName": "Karateka",
+        "romfile": "Karateka",
+        "system": "Apple"
+    },
+    {
+        "description": "Pop Pandora without taking a bubble to the face!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "KidIcarus.png",
+        "readableName": "Kid Icarus",
+        "romFile": "KidIcarus.zip",
+        "saveFiles": [
+            "KidIcarus.fc0",
+            "KidIcarus.fc1",
+            "KidIcarus.fc2",
+            "KidIcarus.fc3",
+            "KidIcarus.fc4",
+            "KidIcarus.fc5",
+            "KidIcarus.fc6",
+            "KidIcarus.fc7",
+            "KidIcarus.fc8",
+            "KidIcarus.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Doge the deadly Spinner and take him out for good!NEWLINEHe's rolling, rolling, rolling, rolling... ON!",
+        "difficulty": "EXPERT",
+        "disabledKeys": "",
+        "imageFile": "Landstalker.png",
+        "readableName": "Landstalker",
+        "romFile": "Landstalker.zip",
+        "saveFiles": [
+            "Landstalker.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Three Digdoggers, a wooden sword,NEWLINEshooting statues and only one heart?NEWLINEBring it on!",
+        "difficulty": "HARD",
+        "disabledKeys": "=",
+        "imageFile": "LegendOfZelda.png",
+        "readableName": "Legend Of Zelda",
+        "romFile": "LegendOfZelda.zip",
+        "saveFiles": [
+            "LegendOfZelda.fc0",
+            "LegendOfZelda.fc1",
+            "LegendOfZelda.fc2",
+            "LegendOfZelda.fc3",
+            "LegendOfZelda.fc4",
+            "LegendOfZelda.fc5",
+            "LegendOfZelda.fc6",
+            "LegendOfZelda.fc7",
+            "LegendOfZelda.fc8",
+            "LegendOfZelda.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Defeat Kholdstare without magic refills, a non-temperedNEWLINE sword and without getting hit!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "LegendOfZeldaLinkToThePast.png",
+        "readableName": "Legend Of Zelda: Link to the Past",
+        "romFile": "LegendOfZeldaLinkToThePast.zip",
+        "saveFiles": [
+            "LegendOfZeldaLinkToThePast.zs1",
+            "LegendOfZeldaLinkToThePast.zs2",
+            "LegendOfZeldaLinkToThePast.zs3",
+            "LegendOfZeldaLinkToThePast.zs4",
+            "LegendOfZeldaLinkToThePast.zs5",
+            "LegendOfZeldaLinkToThePast.zs6",
+            "LegendOfZeldaLinkToThePast.zs7",
+            "LegendOfZeldaLinkToThePast.zs8",
+            "LegendOfZeldaLinkToThePast.zs9",
+            "LegendOfZeldaLinkToThePast.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Destroy your Evil Twin with your Arm Cannon and no getting hit!",
+        "difficulty": "UNFAIR",
+        "disabledKeys": "=",
+        "imageFile": "MegaMan.png",
+        "readableName": "Mega Man",
+        "romFile": "MegaMan.zip",
+        "saveFiles": [
+            "MegaMan.fc0",
+            "MegaMan.fc1",
+            "MegaMan.fc2",
+            "MegaMan.fc3",
+            "MegaMan.fc4",
+            "MegaMan.fc5",
+            "MegaMan.fc6",
+            "MegaMan.fc7",
+            "MegaMan.fc8",
+            "MegaMan.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Crash through this level using your deadly rolling bubbles of fear!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "=",
+        "imageFile": "MegaMan2.png",
+        "readableName": "Mega Man 2",
+        "romFile": "MegaMan2.zip",
+        "saveFiles": [
+            "MegaMan2.fc0",
+            "MegaMan2.fc1",
+            "MegaMan2.fc2",
+            "MegaMan2.fc3",
+            "MegaMan2.fc4",
+            "MegaMan2.fc5",
+            "MegaMan2.fc6",
+            "MegaMan2.fc7",
+            "MegaMan2.fc8",
+            "MegaMan2.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Conquer the land of needles using only your snake-y gun!",
+        "difficulty": "HARD",
+        "disabledKeys": "=",
+        "imageFile": "MegaMan3.png",
+        "readableName": "Mega Man 3",
+        "romFile": "MegaMan3.zip",
+        "saveFiles": [
+            "MegaMan3.fc0",
+            "MegaMan3.fc1",
+            "MegaMan3.fc2",
+            "MegaMan3.fc3",
+            "MegaMan3.fc4",
+            "MegaMan3.fc5",
+            "MegaMan3.fc6",
+            "MegaMan3.fc7",
+            "MegaMan3.fc8",
+            "MegaMan3.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Fight underwater and Dust off Dive Man!NEWLINESurprisingly, dust weapons work underwater?NEWLINESeems unlikely.",
+        "difficulty": "NORMAL",
+        "disabledKeys": "=",
+        "imageFile": "MegaMan4.png",
+        "readableName": "Mega Man 4",
+        "romFile": "MegaMan4.zip",
+        "saveFiles": [
+            "MegaMan4.fc0",
+            "MegaMan4.fc1",
+            "MegaMan4.fc2",
+            "MegaMan4.fc3",
+            "MegaMan4.fc4",
+            "MegaMan4.fc5",
+            "MegaMan4.fc6",
+            "MegaMan4.fc7",
+            "MegaMan4.fc8",
+            "MegaMan4.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Crash Kick your way past Gyroman!",
+        "difficulty": "HARD",
+        "disabledKeys": "=",
+        "imageFile": "MegaMan5.png",
+        "readableName": "Mega Man 5",
+        "romFile": "MegaMan5.zip",
+        "saveFiles": [
+            "MegaMan5.fc0",
+            "MegaMan5.fc1",
+            "MegaMan5.fc2",
+            "MegaMan5.fc3",
+            "MegaMan5.fc4",
+            "MegaMan5.fc5",
+            "MegaMan5.fc6",
+            "MegaMan5.fc7",
+            "MegaMan5.fc8",
+            "MegaMan5.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Blast Violen arm-cannon style without getting smashed!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "MegaManX2.png",
+        "readableName": "Mega Man X2",
+        "romFile": "MegaManX2.zip",
+        "saveFiles": [
+            "MegaManX2.zs1",
+            "MegaManX2.zs2",
+            "MegaManX2.zs3",
+            "MegaManX2.zs4",
+            "MegaManX2.zs5",
+            "MegaManX2.zs6",
+            "MegaManX2.zs7",
+            "MegaManX2.zs8",
+            "MegaManX2.zs9",
+            "MegaManX2.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "TKO Mr. Sandman in Round 1!",
+        "difficulty": "UNFAIR",
+        "disabledKeys": "",
+        "imageFile": "MikeTysonsPunchOut.png",
+        "readableName": "Mike Tyson's Punch Out!!!",
+        "romFile": "MikeTysonsPunchOut.zip",
+        "saveFiles": [
+            "MikeTysonsPunchOut.fc0",
+            "MikeTysonsPunchOut.fc1",
+            "MikeTysonsPunchOut.fc2",
+            "MikeTysonsPunchOut.fc3",
+            "MikeTysonsPunchOut.fc4",
+            "MikeTysonsPunchOut.fc5",
+            "MikeTysonsPunchOut.fc6",
+            "MikeTysonsPunchOut.fc7",
+            "MikeTysonsPunchOut.fc8",
+            "MikeTysonsPunchOut.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Destroy 50k worth of incoming missles and smart bombs!NEWLINESave the cities! Or save at least one of them!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "MISSCOMM.png",
+        "readableName": "Missile Command",
+        "romFile": "MISSCOMM.bin",
+        "saveFiles": [
+            "MISSCOMM.st0",
+            "MISSCOMM.st1",
+            "MISSCOMM.st2",
+            "MISSCOMM.st3",
+            "MISSCOMM.st4",
+            "MISSCOMM.st5",
+            "MISSCOMM.st6",
+            "MISSCOMM.st7",
+            "MISSCOMM.st8",
+            "MISSCOMM.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Smack down the Fried Tempura Special without ducking!NEWLINENo getting hit either!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "down",
+        "imageFile": "MonsterParty.png",
+        "readableName": "Monster Party",
+        "romFile": "MonsterParty.zip",
+        "saveFiles": [
+            "MonsterParty.fc0",
+            "MonsterParty.fc1",
+            "MonsterParty.fc2",
+            "MonsterParty.fc3",
+            "MonsterParty.fc4",
+            "MonsterParty.fc5",
+            "MonsterParty.fc6",
+            "MonsterParty.fc7",
+            "MonsterParty.fc8",
+            "MonsterParty.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Navigate the Emperor's Tomb and reach theNEWLINEIncredible Treasure Room in one life!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "MONTZREV.png",
+        "readableName": "Montezuma's Revenge",
+        "romFile": "MONTZREV.bin",
+        "saveFiles": [
+            "MONTZREV.st0",
+            "MONTZREV.st1",
+            "MONTZREV.st2",
+            "MONTZREV.st3",
+            "MONTZREV.st4",
+            "MONTZREV.st5",
+            "MONTZREV.st6",
+            "MONTZREV.st7",
+            "MONTZREV.st8",
+            "MONTZREV.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Win the Monster Cup as the Mighty Weenies!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "MutantLeagueHockey.png",
+        "readableName": "Mutant League Hockey",
+        "romFile": "MutantLeagueHockey.zip",
+        "saveFiles": [
+            "MutantLeagueHockey.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Fight through all the Freddy bosses as a normal human in one life!",
+        "difficulty": "EXPERT",
+        "disabledKeys": "-",
+        "imageFile": "NightmareOnElmStreet.png",
+        "readableName": "Nightmare On Elm Street",
+        "romFile": "NightmareOnElmStreet.zip",
+        "saveFiles": [
+            "NightmareOnElmStreet.fc0",
+            "NightmareOnElmStreet.fc1",
+            "NightmareOnElmStreet.fc2",
+            "NightmareOnElmStreet.fc3",
+            "NightmareOnElmStreet.fc4",
+            "NightmareOnElmStreet.fc5",
+            "NightmareOnElmStreet.fc6",
+            "NightmareOnElmStreet.fc7",
+            "NightmareOnElmStreet.fc8",
+            "NightmareOnElmStreet.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Slice up the Spider Throwing Ninja without taking a hit!NEWLINEWho throws spiders anyway?",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "NinjaGaiden2.png",
+        "readableName": "Ninja Gaiden 2",
+        "romFile": "NinjaGaiden2.zip",
+        "saveFiles": [
+            "NinjaGaiden2.fc0",
+            "NinjaGaiden2.fc1",
+            "NinjaGaiden2.fc2",
+            "NinjaGaiden2.fc3",
+            "NinjaGaiden2.fc4",
+            "NinjaGaiden2.fc5",
+            "NinjaGaiden2.fc6",
+            "NinjaGaiden2.fc7",
+            "NinjaGaiden2.fc8",
+            "NinjaGaiden2.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Race down your favorite path and complete the full Outrun race!NEWLINEWithout brakes.",
+        "difficulty": "Normal",
+        "disabledKeys": "b",
+        "imageFile": "Outrun.png",
+        "readableName": "Outrun",
+        "romFile": "Outrun.zip",
+        "saveFiles": [
+            "Outrun.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Score enough points to clear the final Expert level!NEWLINEReal flying action, except maybe the jetpack.",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "Pilotwings.png",
+        "readableName": "Pilotwings",
+        "romFile": "Pilotwings.zip",
+        "saveFiles": [
+            "Pilotwings.zs1",
+            "Pilotwings.zs2",
+            "Pilotwings.zs3",
+            "Pilotwings.zs4",
+            "Pilotwings.zs5",
+            "Pilotwings.zs6",
+            "Pilotwings.zs7",
+            "Pilotwings.zs8",
+            "Pilotwings.zs9",
+            "Pilotwings.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Defeat Dark Mantle with no power-ups,NEWLINEno Tanooki help and without getting hit!",
+        "difficulty": "EXPERT",
+        "disabledKeys": "",
+        "imageFile": "PockyAndRocky.png",
+        "readableName": "Pocky & Rocky",
+        "romFile": "PockyAndRocky.zip",
+        "saveFiles": [
+            "PockyAndRocky.zs1",
+            "PockyAndRocky.zs2",
+            "PockyAndRocky.zs3",
+            "PockyAndRocky.zs4",
+            "PockyAndRocky.zs5",
+            "PockyAndRocky.zs6",
+            "PockyAndRocky.zs7",
+            "PockyAndRocky.zs8",
+            "PockyAndRocky.zs9",
+            "PockyAndRocky.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Rush through the Office and defeat theNEWLINEBoss Centipede keeping Dale alive!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "RescueRangers.png",
+        "readableName": "Rescue Rangers",
+        "romFile": "RescueRangers.zip",
+        "saveFiles": [
+            "RescueRangers.fc0",
+            "RescueRangers.fc1",
+            "RescueRangers.fc2",
+            "RescueRangers.fc3",
+            "RescueRangers.fc4",
+            "RescueRangers.fc5",
+            "RescueRangers.fc6",
+            "RescueRangers.fc7",
+            "RescueRangers.fc8",
+            "RescueRangers.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Take out Spiderman and Batman as a shuriken-less shinobi!NEWLINEWhat are those two doing in this game anyway?",
+        "difficulty": "HARD",
+        "disabledKeys": "a",
+        "imageFile": "RevengeOfShinobi.png",
+        "readableName": "Revenge of Shinobi",
+        "romFile": "RevengeOfShinobi.zip",
+        "saveFiles": [
+            "RevengeOfShinobi.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Reach your giant pig-bot and take out Axel fisticuffs style!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "RocketKnightAdventures.png",
+        "readableName": "Rocket Knight Adventures",
+        "romFile": "RocketKnightAdventures.zip",
+        "saveFiles": [
+            "RocketKnightAdventures.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Destroy the King Ship with the arm cannonNEWLINEand no getting hit!NEWLINEToo bad this game never hit the US,NEWLINE'cause it's really tough.",
+        "difficulty": "EXPERT",
+        "disabledKeys": "[,],=",
+        "imageFile": "RockmanAndForte.png",
+        "readableName": "Rockman & Forte",
+        "romFile": "RockmanAndForte.zip",
+        "saveFiles": [
+            "RockmanAndForte.zs1",
+            "RockmanAndForte.zs2",
+            "RockmanAndForte.zs3",
+            "RockmanAndForte.zs4",
+            "RockmanAndForte.zs5",
+            "RockmanAndForte.zs6",
+            "RockmanAndForte.zs7",
+            "RockmanAndForte.zs8",
+            "RockmanAndForte.zs9",
+            "RockmanAndForte.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "As Rygar, smack Ligar to death-gar with yourNEWLINEDiskarmor-gar without getting hit-gar!",
+        "difficulty": "UNFAIR",
+        "disabledKeys": "",
+        "imageFile": "Rygar.png",
+        "readableName": "Rygar",
+        "romFile": "Rygar.zip",
+        "saveFiles": [
+            "Rygar.fc0",
+            "Rygar.fc1",
+            "Rygar.fc2",
+            "Rygar.fc3",
+            "Rygar.fc4",
+            "Rygar.fc5",
+            "Rygar.fc6",
+            "Rygar.fc7",
+            "Rygar.fc8",
+            "Rygar.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Fight the Demon Hags without shurikens and be victorious!NEWLINEWithout getting hit.",
+        "difficulty": "EXPERT",
+        "disabledKeys": "a",
+        "imageFile": "Shinobi3.png",
+        "readableName": "Shinobi 3: Revenge of the Ninja Master",
+        "romFile": "Shinobi3.zip",
+        "saveFiles": [
+            "Shinobi3.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Blow up the eyeball throwing Evil M.C. in one life!NEWLINEI'll buy that challenge for a dollar!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "SmashTV.png",
+        "readableName": "Smash TV",
+        "romFile": "SmashTV.zip",
+        "saveFiles": [
+            "SmashTV.zs1",
+            "SmashTV.zs2",
+            "SmashTV.zs3",
+            "SmashTV.zs4",
+            "SmashTV.zs5",
+            "SmashTV.zs6",
+            "SmashTV.zs7",
+            "SmashTV.zs8",
+            "SmashTV.zs9",
+            "SmashTV.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Snake-ily take out Six CyberLinebackers with only 84 bulletsNEWLINEand don't get hit!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "-",
+        "imageFile": "SnakesRevenge.png",
+        "readableName": "Snake's Revenge",
+        "romFile": "SnakesRevenge.zip",
+        "saveFiles": [
+            "SnakesRevenge.fc0",
+            "SnakesRevenge.fc1",
+            "SnakesRevenge.fc2",
+            "SnakesRevenge.fc3",
+            "SnakesRevenge.fc4",
+            "SnakesRevenge.fc5",
+            "SnakesRevenge.fc6",
+            "SnakesRevenge.fc7",
+            "SnakesRevenge.fc8",
+            "SnakesRevenge.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Take out Robotnik and his spinning blades of... spinning!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "Sonic CD.png",
+        "readableName": "Sonic CD",
+        "romFile": "Sonic CD.zip",
+        "saveFiles": [
+            "Sonic CD.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Take out Robotnik's spaceship with spinning hedgehog action!NEWLINEShow off those awesome flippin' skillz!",
+        "difficulty": "EXPERT",
+        "disabledKeys": "",
+        "imageFile": "SonicSpinball.png",
+        "readableName": "Sonic Spinball",
+        "romFile": "SonicSpinball.zip",
+        "saveFiles": [
+            "SonicSpinball.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Defeat Electro, Hobgoblin, Lizard, Venom andNEWLINEKingpin. Then save NYC from the bomb!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "Spiderman.png",
+        "readableName": "Spiderman",
+        "romFile": "Spiderman.zip",
+        "saveFiles": [
+            "Spiderman.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Blaze through the Star-y sky and destroy a Radar,NEWLINEan ICBM, two impossible-to-hit TanksNEWLINEand the Enemy HQ! (i.e. complete the game)",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "StarBlazer.png",
+        "readableName": "Star Blazer",
+        "romfile": "StarBlazer",
+        "system": "Apple"
+    },
+    {
+        "description": "Take out a pair of flying aliens using only yourNEWLINEtrusty yo-yo and don't get hit!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "StarTropics.png",
+        "readableName": "StarTropics",
+        "romFile": "StarTropics.zip",
+        "saveFiles": [
+            "StarTropics.fc0",
+            "StarTropics.fc1",
+            "StarTropics.fc2",
+            "StarTropics.fc3",
+            "StarTropics.fc4",
+            "StarTropics.fc5",
+            "StarTropics.fc6",
+            "StarTropics.fc7",
+            "StarTropics.fc8",
+            "StarTropics.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Fly through town and space, collecting bells and sting the sun!NEWLINEBe Best Stinger ever!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "Stinger.png",
+        "readableName": "Stinger",
+        "romFile": "Stinger.zip",
+        "saveFiles": [
+            "Stinger.fc0",
+            "Stinger.fc1",
+            "Stinger.fc2",
+            "Stinger.fc3",
+            "Stinger.fc4",
+            "Stinger.fc5",
+            "Stinger.fc6",
+            "Stinger.fc7",
+            "Stinger.fc8",
+            "Stinger.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Stride through Australia way too earlyNEWLINEand destroy a giant purple tree!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "Strider.png",
+        "readableName": "Stider",
+        "romFile": "Strider.zip",
+        "saveFiles": [
+            "Strider.fc0",
+            "Strider.fc1",
+            "Strider.fc2",
+            "Strider.fc3",
+            "Strider.fc4",
+            "Strider.fc5",
+            "Strider.fc6",
+            "Strider.fc7",
+            "Strider.fc8",
+            "Strider.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Defeat Master Wizard guy and free the bubble trapped maiden!NEWLINEDon't hit the bubble or you'll get shocked!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "StriderReturns.png",
+        "readableName": "Strider Returns",
+        "romFile": "StriderReturns.zip",
+        "saveFiles": [
+            "StriderReturns.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Luigi through special World 9 in one life!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "SuperMarioAllStars.png",
+        "readableName": "Super Mario - The Lost Levels",
+        "romFile": "SuperMarioAllStars.zip",
+        "saveFiles": [
+            "SuperMarioAllStars.zs1",
+            "SuperMarioAllStars.zs2",
+            "SuperMarioAllStars.zs3",
+            "SuperMarioAllStars.zs4",
+            "SuperMarioAllStars.zs5",
+            "SuperMarioAllStars.zs6",
+            "SuperMarioAllStars.zs7",
+            "SuperMarioAllStars.zs8",
+            "SuperMarioAllStars.zs9",
+            "SuperMarioAllStars.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Conquer the Engine Man!NEWLINEThree times, since he keeps losing appendages.NEWLINEGuess he's a robot in disguise?",
+        "difficulty": "HARD",
+        "disabledKeys": "No-XYZM",
+        "imageFile": "TechnoClash.png",
+        "readableName": "TechnoClash",
+        "romFile": "TechnoClash.zip",
+        "saveFiles": [
+            "TechnoClash.gs0"
+        ],
+        "system": "Genesis"
+    },
+    {
+        "description": "Tunnel and blast away 100k of tanks and power generators in one life!NEWLINEDon't forget to search for secret item bonus points!",
+        "difficulty": "NORMAL",
+        "disabledKeys": "",
+        "imageFile": "Thundgrd.png",
+        "readableName": "Thunderground",
+        "romFile": "Thundgrd.bin",
+        "saveFiles": [
+            "Thundgrd.st0",
+            "Thundgrd.st1",
+            "Thundgrd.st2",
+            "Thundgrd.st3",
+            "Thundgrd.st4",
+            "Thundgrd.st5",
+            "Thundgrd.st6",
+            "Thundgrd.st7",
+            "Thundgrd.st8",
+            "Thundgrd.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Defeat Krang and Super Shredder in one life as your favorite Turtle!",
+        "difficulty": "EXPERT",
+        "disabledKeys": "",
+        "imageFile": "TMNT3.png",
+        "readableName": "TMNT3",
+        "romFile": "TMNT3.zip",
+        "saveFiles": [
+            "TMNT3.fc0",
+            "TMNT3.fc1",
+            "TMNT3.fc2",
+            "TMNT3.fc3",
+            "TMNT3.fc4",
+            "TMNT3.fc5",
+            "TMNT3.fc6",
+            "TMNT3.fc7",
+            "TMNT3.fc8",
+            "TMNT3.fc9"
+        ],
+        "system": "NES"
+    },
+    {
+        "description": "Explore the four tombs and uncover the mask of great Tutankham!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "Tutank.png",
+        "readableName": "Tutankham",
+        "romFile": "Tutank.bin",
+        "saveFiles": [
+            "Tutank.st0",
+            "Tutank.st1",
+            "Tutank.st2",
+            "Tutank.st3",
+            "Tutank.st4",
+            "Tutank.st5",
+            "Tutank.st6",
+            "Tutank.st7",
+            "Tutank.st8",
+            "Tutank.st9"
+        ],
+        "system": "Atari"
+    },
+    {
+        "description": "Take out the Armored Train and Jetpack Engineer in one life!",
+        "difficulty": "HARD",
+        "disabledKeys": "",
+        "imageFile": "WildGuns.png",
+        "readableName": "Wild Guns",
+        "romFile": "WildGuns.zip",
+        "saveFiles": [
+            "WildGuns.zs1",
+            "WildGuns.zs2",
+            "WildGuns.zs3",
+            "WildGuns.zs4",
+            "WildGuns.zs5",
+            "WildGuns.zs6",
+            "WildGuns.zs7",
+            "WildGuns.zs8",
+            "WildGuns.zs9",
+            "WildGuns.zst"
+        ],
+        "system": "SNES"
+    },
+    {
+        "description": "Defeat Barba with Attack Level 1 and no getting hit!",
+        "difficulty": "HARD",
+        "disabledKeys": "-",
+        "imageFile": "Zelda2.png",
+        "readableName": "Zelda 2",
+        "romFile": "Zelda2.zip",
+        "saveFiles": [
+            "Zelda2.fc0",
+            "Zelda2.fc1",
+            "Zelda2.fc2",
+            "Zelda2.fc3",
+            "Zelda2.fc4",
+            "Zelda2.fc5",
+            "Zelda2.fc6",
+            "Zelda2.fc7",
+            "Zelda2.fc8",
+            "Zelda2.fc9"
+        ],
+        "system": "NES"
+    }
+]
